@@ -1,0 +1,6 @@
+cv_*.aux
+cv_*.fdb_latexmk
+cv_*.fls
+cv_*.log
+cv_*.out
+cv_*.pdf
